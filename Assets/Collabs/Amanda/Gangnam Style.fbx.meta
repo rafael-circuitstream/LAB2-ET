@@ -3,7 +3,31 @@ guid: a97d7e0ba54109748a51fc1d8a0e85d7
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
+<<<<<<< Updated upstream
   externalObjects: {}
+=======
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MEDEA diffuse
+    second: {fileID: 2800000, guid: 0ccd95525ffa1a84b9bede215dfb3fee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MEDEA glow
+    second: {fileID: 2800000, guid: cc39b2fb687b4b44bb51d30d3f10ad70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MEDEA specular
+    second: {fileID: 2800000, guid: 55f3b78ae10b2fc49b19b8176078ddb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body diffuse
+    second: {fileID: 2800000, guid: 128c6236db628a84998f742b34acbc16, type: 3}
+>>>>>>> Stashed changes
   materials:
     materialImportMode: 2
     materialName: 0
